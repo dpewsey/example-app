@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/open-o11y/prometheus-sample-app/metrics"
+	"github.com/dpewsey/example-app/metrics"
 )
 
 func main() {

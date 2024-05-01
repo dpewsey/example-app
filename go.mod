@@ -1,4 +1,4 @@
-module github.com/open-o11y/prometheus-sample-app
+module github.com/dpewsey/example-app
 
 go 1.15
 
