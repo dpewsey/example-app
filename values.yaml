@@ -1,8 +1,8 @@
 replicaCount: 1
 image:
-  repository: nginx
+  repository: dpewsey/example-app
   pullPolicy: IfNotPresent
-  tag: ""
+  tag: "latest"
 nameOverride: ""
 fullnameOverride: ""
 serviceAccount:
