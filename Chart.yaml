@@ -2,9 +2,9 @@
 apiVersion: v2
 name: example-app
 type: application
-version: 0.2.4
+version: 0.2.5
 appVersion: "1.16.0"
 dependencies:
   - name: example-app
-    version: 0.2.4
+    version: 0.2.5
     repository: https://raw.githubusercontent.com/dpewsey/example-helm/main/stable/
